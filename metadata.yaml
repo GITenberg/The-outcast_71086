@@ -1,0 +1,47 @@
+_repo: The-outcast_71086
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, William John Alexander
+    - Worster, W. W.
+    - Worster, William W.
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71086'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001199932
+pgterms:marc905: 20230404034213lagerlf
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited States :$bDoubleday, Page & Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The outcast
+url: http://www.gutenberg.org/ebooks/71086
