@@ -11,6 +11,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '2514'
     url: http://www.gutenberg.org/2009/agents/2514
+covers:
+- cover_type: archival
+  image_path: 71086-h/images/cover.jpg
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -27,6 +30,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
     - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71086#The-outcast
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71086'
